@@ -1,5 +1,5 @@
 {
-  "name": "terminal-qr",
+  "name": "genqr",
   "version": "0.0.0",
   "description": "A command line utility to generate qr codes",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "node test.js"
   },
   "bin": {
-    "qrgen": "./index.js"
+    "genqr": "./index.js"
   },
   "keywords": [
     "Terminal",
